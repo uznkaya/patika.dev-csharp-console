@@ -1,0 +1,15 @@
+/Users/mehmetcanuzunkaya/Desktop/pratikler/tipdonusum/bin/Debug/net7.0/tipdonusum
+/Users/mehmetcanuzunkaya/Desktop/pratikler/tipdonusum/bin/Debug/net7.0/tipdonusum.deps.json
+/Users/mehmetcanuzunkaya/Desktop/pratikler/tipdonusum/bin/Debug/net7.0/tipdonusum.runtimeconfig.json
+/Users/mehmetcanuzunkaya/Desktop/pratikler/tipdonusum/bin/Debug/net7.0/tipdonusum.dll
+/Users/mehmetcanuzunkaya/Desktop/pratikler/tipdonusum/bin/Debug/net7.0/tipdonusum.pdb
+/Users/mehmetcanuzunkaya/Desktop/pratikler/tipdonusum/obj/Debug/net7.0/tipdonusum.csproj.AssemblyReference.cache
+/Users/mehmetcanuzunkaya/Desktop/pratikler/tipdonusum/obj/Debug/net7.0/tipdonusum.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mehmetcanuzunkaya/Desktop/pratikler/tipdonusum/obj/Debug/net7.0/tipdonusum.AssemblyInfoInputs.cache
+/Users/mehmetcanuzunkaya/Desktop/pratikler/tipdonusum/obj/Debug/net7.0/tipdonusum.AssemblyInfo.cs
+/Users/mehmetcanuzunkaya/Desktop/pratikler/tipdonusum/obj/Debug/net7.0/tipdonusum.csproj.CoreCompileInputs.cache
+/Users/mehmetcanuzunkaya/Desktop/pratikler/tipdonusum/obj/Debug/net7.0/tipdonusum.dll
+/Users/mehmetcanuzunkaya/Desktop/pratikler/tipdonusum/obj/Debug/net7.0/refint/tipdonusum.dll
+/Users/mehmetcanuzunkaya/Desktop/pratikler/tipdonusum/obj/Debug/net7.0/tipdonusum.pdb
+/Users/mehmetcanuzunkaya/Desktop/pratikler/tipdonusum/obj/Debug/net7.0/tipdonusum.genruntimeconfig.cache
+/Users/mehmetcanuzunkaya/Desktop/pratikler/tipdonusum/obj/Debug/net7.0/ref/tipdonusum.dll
