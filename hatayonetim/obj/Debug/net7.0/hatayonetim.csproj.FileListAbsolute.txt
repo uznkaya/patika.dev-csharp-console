@@ -1,0 +1,15 @@
+/Users/mehmetcanuzunkaya/Desktop/pratikler/hatayonetim/bin/Debug/net7.0/hatayonetim
+/Users/mehmetcanuzunkaya/Desktop/pratikler/hatayonetim/bin/Debug/net7.0/hatayonetim.deps.json
+/Users/mehmetcanuzunkaya/Desktop/pratikler/hatayonetim/bin/Debug/net7.0/hatayonetim.runtimeconfig.json
+/Users/mehmetcanuzunkaya/Desktop/pratikler/hatayonetim/bin/Debug/net7.0/hatayonetim.dll
+/Users/mehmetcanuzunkaya/Desktop/pratikler/hatayonetim/bin/Debug/net7.0/hatayonetim.pdb
+/Users/mehmetcanuzunkaya/Desktop/pratikler/hatayonetim/obj/Debug/net7.0/hatayonetim.csproj.AssemblyReference.cache
+/Users/mehmetcanuzunkaya/Desktop/pratikler/hatayonetim/obj/Debug/net7.0/hatayonetim.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mehmetcanuzunkaya/Desktop/pratikler/hatayonetim/obj/Debug/net7.0/hatayonetim.AssemblyInfoInputs.cache
+/Users/mehmetcanuzunkaya/Desktop/pratikler/hatayonetim/obj/Debug/net7.0/hatayonetim.AssemblyInfo.cs
+/Users/mehmetcanuzunkaya/Desktop/pratikler/hatayonetim/obj/Debug/net7.0/hatayonetim.csproj.CoreCompileInputs.cache
+/Users/mehmetcanuzunkaya/Desktop/pratikler/hatayonetim/obj/Debug/net7.0/hatayonetim.dll
+/Users/mehmetcanuzunkaya/Desktop/pratikler/hatayonetim/obj/Debug/net7.0/refint/hatayonetim.dll
+/Users/mehmetcanuzunkaya/Desktop/pratikler/hatayonetim/obj/Debug/net7.0/hatayonetim.pdb
+/Users/mehmetcanuzunkaya/Desktop/pratikler/hatayonetim/obj/Debug/net7.0/hatayonetim.genruntimeconfig.cache
+/Users/mehmetcanuzunkaya/Desktop/pratikler/hatayonetim/obj/Debug/net7.0/ref/hatayonetim.dll
