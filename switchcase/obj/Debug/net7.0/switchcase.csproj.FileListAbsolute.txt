@@ -1,0 +1,15 @@
+/Users/mehmetcanuzunkaya/Desktop/pratikler/switchcase/bin/Debug/net7.0/switchcase
+/Users/mehmetcanuzunkaya/Desktop/pratikler/switchcase/bin/Debug/net7.0/switchcase.deps.json
+/Users/mehmetcanuzunkaya/Desktop/pratikler/switchcase/bin/Debug/net7.0/switchcase.runtimeconfig.json
+/Users/mehmetcanuzunkaya/Desktop/pratikler/switchcase/bin/Debug/net7.0/switchcase.dll
+/Users/mehmetcanuzunkaya/Desktop/pratikler/switchcase/bin/Debug/net7.0/switchcase.pdb
+/Users/mehmetcanuzunkaya/Desktop/pratikler/switchcase/obj/Debug/net7.0/switchcase.csproj.AssemblyReference.cache
+/Users/mehmetcanuzunkaya/Desktop/pratikler/switchcase/obj/Debug/net7.0/switchcase.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mehmetcanuzunkaya/Desktop/pratikler/switchcase/obj/Debug/net7.0/switchcase.AssemblyInfoInputs.cache
+/Users/mehmetcanuzunkaya/Desktop/pratikler/switchcase/obj/Debug/net7.0/switchcase.AssemblyInfo.cs
+/Users/mehmetcanuzunkaya/Desktop/pratikler/switchcase/obj/Debug/net7.0/switchcase.csproj.CoreCompileInputs.cache
+/Users/mehmetcanuzunkaya/Desktop/pratikler/switchcase/obj/Debug/net7.0/switchcase.dll
+/Users/mehmetcanuzunkaya/Desktop/pratikler/switchcase/obj/Debug/net7.0/refint/switchcase.dll
+/Users/mehmetcanuzunkaya/Desktop/pratikler/switchcase/obj/Debug/net7.0/switchcase.pdb
+/Users/mehmetcanuzunkaya/Desktop/pratikler/switchcase/obj/Debug/net7.0/switchcase.genruntimeconfig.cache
+/Users/mehmetcanuzunkaya/Desktop/pratikler/switchcase/obj/Debug/net7.0/ref/switchcase.dll
