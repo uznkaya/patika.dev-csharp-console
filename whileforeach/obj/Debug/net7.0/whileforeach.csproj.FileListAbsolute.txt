@@ -1,0 +1,15 @@
+/Users/mehmetcanuzunkaya/Desktop/pratikler/whileforeach/bin/Debug/net7.0/whileforeach
+/Users/mehmetcanuzunkaya/Desktop/pratikler/whileforeach/bin/Debug/net7.0/whileforeach.deps.json
+/Users/mehmetcanuzunkaya/Desktop/pratikler/whileforeach/bin/Debug/net7.0/whileforeach.runtimeconfig.json
+/Users/mehmetcanuzunkaya/Desktop/pratikler/whileforeach/bin/Debug/net7.0/whileforeach.dll
+/Users/mehmetcanuzunkaya/Desktop/pratikler/whileforeach/bin/Debug/net7.0/whileforeach.pdb
+/Users/mehmetcanuzunkaya/Desktop/pratikler/whileforeach/obj/Debug/net7.0/whileforeach.csproj.AssemblyReference.cache
+/Users/mehmetcanuzunkaya/Desktop/pratikler/whileforeach/obj/Debug/net7.0/whileforeach.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mehmetcanuzunkaya/Desktop/pratikler/whileforeach/obj/Debug/net7.0/whileforeach.AssemblyInfoInputs.cache
+/Users/mehmetcanuzunkaya/Desktop/pratikler/whileforeach/obj/Debug/net7.0/whileforeach.AssemblyInfo.cs
+/Users/mehmetcanuzunkaya/Desktop/pratikler/whileforeach/obj/Debug/net7.0/whileforeach.csproj.CoreCompileInputs.cache
+/Users/mehmetcanuzunkaya/Desktop/pratikler/whileforeach/obj/Debug/net7.0/whileforeach.dll
+/Users/mehmetcanuzunkaya/Desktop/pratikler/whileforeach/obj/Debug/net7.0/refint/whileforeach.dll
+/Users/mehmetcanuzunkaya/Desktop/pratikler/whileforeach/obj/Debug/net7.0/whileforeach.pdb
+/Users/mehmetcanuzunkaya/Desktop/pratikler/whileforeach/obj/Debug/net7.0/whileforeach.genruntimeconfig.cache
+/Users/mehmetcanuzunkaya/Desktop/pratikler/whileforeach/obj/Debug/net7.0/ref/whileforeach.dll
