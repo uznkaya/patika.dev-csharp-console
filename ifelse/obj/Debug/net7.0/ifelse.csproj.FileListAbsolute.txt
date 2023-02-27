@@ -1,0 +1,15 @@
+/Users/mehmetcanuzunkaya/Desktop/pratikler/ifelse/bin/Debug/net7.0/ifelse
+/Users/mehmetcanuzunkaya/Desktop/pratikler/ifelse/bin/Debug/net7.0/ifelse.deps.json
+/Users/mehmetcanuzunkaya/Desktop/pratikler/ifelse/bin/Debug/net7.0/ifelse.runtimeconfig.json
+/Users/mehmetcanuzunkaya/Desktop/pratikler/ifelse/bin/Debug/net7.0/ifelse.dll
+/Users/mehmetcanuzunkaya/Desktop/pratikler/ifelse/bin/Debug/net7.0/ifelse.pdb
+/Users/mehmetcanuzunkaya/Desktop/pratikler/ifelse/obj/Debug/net7.0/ifelse.csproj.AssemblyReference.cache
+/Users/mehmetcanuzunkaya/Desktop/pratikler/ifelse/obj/Debug/net7.0/ifelse.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mehmetcanuzunkaya/Desktop/pratikler/ifelse/obj/Debug/net7.0/ifelse.AssemblyInfoInputs.cache
+/Users/mehmetcanuzunkaya/Desktop/pratikler/ifelse/obj/Debug/net7.0/ifelse.AssemblyInfo.cs
+/Users/mehmetcanuzunkaya/Desktop/pratikler/ifelse/obj/Debug/net7.0/ifelse.csproj.CoreCompileInputs.cache
+/Users/mehmetcanuzunkaya/Desktop/pratikler/ifelse/obj/Debug/net7.0/ifelse.dll
+/Users/mehmetcanuzunkaya/Desktop/pratikler/ifelse/obj/Debug/net7.0/refint/ifelse.dll
+/Users/mehmetcanuzunkaya/Desktop/pratikler/ifelse/obj/Debug/net7.0/ifelse.pdb
+/Users/mehmetcanuzunkaya/Desktop/pratikler/ifelse/obj/Debug/net7.0/ifelse.genruntimeconfig.cache
+/Users/mehmetcanuzunkaya/Desktop/pratikler/ifelse/obj/Debug/net7.0/ref/ifelse.dll
