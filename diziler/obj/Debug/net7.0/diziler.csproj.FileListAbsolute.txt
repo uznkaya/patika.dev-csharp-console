@@ -1,0 +1,15 @@
+/Users/mehmetcanuzunkaya/Desktop/pratikler/diziler/bin/Debug/net7.0/diziler
+/Users/mehmetcanuzunkaya/Desktop/pratikler/diziler/bin/Debug/net7.0/diziler.deps.json
+/Users/mehmetcanuzunkaya/Desktop/pratikler/diziler/bin/Debug/net7.0/diziler.runtimeconfig.json
+/Users/mehmetcanuzunkaya/Desktop/pratikler/diziler/bin/Debug/net7.0/diziler.dll
+/Users/mehmetcanuzunkaya/Desktop/pratikler/diziler/bin/Debug/net7.0/diziler.pdb
+/Users/mehmetcanuzunkaya/Desktop/pratikler/diziler/obj/Debug/net7.0/diziler.csproj.AssemblyReference.cache
+/Users/mehmetcanuzunkaya/Desktop/pratikler/diziler/obj/Debug/net7.0/diziler.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mehmetcanuzunkaya/Desktop/pratikler/diziler/obj/Debug/net7.0/diziler.AssemblyInfoInputs.cache
+/Users/mehmetcanuzunkaya/Desktop/pratikler/diziler/obj/Debug/net7.0/diziler.AssemblyInfo.cs
+/Users/mehmetcanuzunkaya/Desktop/pratikler/diziler/obj/Debug/net7.0/diziler.csproj.CoreCompileInputs.cache
+/Users/mehmetcanuzunkaya/Desktop/pratikler/diziler/obj/Debug/net7.0/diziler.dll
+/Users/mehmetcanuzunkaya/Desktop/pratikler/diziler/obj/Debug/net7.0/refint/diziler.dll
+/Users/mehmetcanuzunkaya/Desktop/pratikler/diziler/obj/Debug/net7.0/diziler.pdb
+/Users/mehmetcanuzunkaya/Desktop/pratikler/diziler/obj/Debug/net7.0/diziler.genruntimeconfig.cache
+/Users/mehmetcanuzunkaya/Desktop/pratikler/diziler/obj/Debug/net7.0/ref/diziler.dll
