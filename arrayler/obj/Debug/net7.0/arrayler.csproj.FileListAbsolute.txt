@@ -1,0 +1,15 @@
+/Users/mehmetcanuzunkaya/Desktop/pratikler/arrayler/bin/Debug/net7.0/arrayler
+/Users/mehmetcanuzunkaya/Desktop/pratikler/arrayler/bin/Debug/net7.0/arrayler.deps.json
+/Users/mehmetcanuzunkaya/Desktop/pratikler/arrayler/bin/Debug/net7.0/arrayler.runtimeconfig.json
+/Users/mehmetcanuzunkaya/Desktop/pratikler/arrayler/bin/Debug/net7.0/arrayler.dll
+/Users/mehmetcanuzunkaya/Desktop/pratikler/arrayler/bin/Debug/net7.0/arrayler.pdb
+/Users/mehmetcanuzunkaya/Desktop/pratikler/arrayler/obj/Debug/net7.0/arrayler.csproj.AssemblyReference.cache
+/Users/mehmetcanuzunkaya/Desktop/pratikler/arrayler/obj/Debug/net7.0/arrayler.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mehmetcanuzunkaya/Desktop/pratikler/arrayler/obj/Debug/net7.0/arrayler.AssemblyInfoInputs.cache
+/Users/mehmetcanuzunkaya/Desktop/pratikler/arrayler/obj/Debug/net7.0/arrayler.AssemblyInfo.cs
+/Users/mehmetcanuzunkaya/Desktop/pratikler/arrayler/obj/Debug/net7.0/arrayler.csproj.CoreCompileInputs.cache
+/Users/mehmetcanuzunkaya/Desktop/pratikler/arrayler/obj/Debug/net7.0/arrayler.dll
+/Users/mehmetcanuzunkaya/Desktop/pratikler/arrayler/obj/Debug/net7.0/refint/arrayler.dll
+/Users/mehmetcanuzunkaya/Desktop/pratikler/arrayler/obj/Debug/net7.0/arrayler.pdb
+/Users/mehmetcanuzunkaya/Desktop/pratikler/arrayler/obj/Debug/net7.0/arrayler.genruntimeconfig.cache
+/Users/mehmetcanuzunkaya/Desktop/pratikler/arrayler/obj/Debug/net7.0/ref/arrayler.dll
