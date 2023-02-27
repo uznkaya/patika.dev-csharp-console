@@ -1,0 +1,15 @@
+/Users/mehmetcanuzunkaya/Desktop/pratikler/forbreakcontinue/bin/Debug/net7.0/forbreakcontinue
+/Users/mehmetcanuzunkaya/Desktop/pratikler/forbreakcontinue/bin/Debug/net7.0/forbreakcontinue.deps.json
+/Users/mehmetcanuzunkaya/Desktop/pratikler/forbreakcontinue/bin/Debug/net7.0/forbreakcontinue.runtimeconfig.json
+/Users/mehmetcanuzunkaya/Desktop/pratikler/forbreakcontinue/bin/Debug/net7.0/forbreakcontinue.dll
+/Users/mehmetcanuzunkaya/Desktop/pratikler/forbreakcontinue/bin/Debug/net7.0/forbreakcontinue.pdb
+/Users/mehmetcanuzunkaya/Desktop/pratikler/forbreakcontinue/obj/Debug/net7.0/forbreakcontinue.csproj.AssemblyReference.cache
+/Users/mehmetcanuzunkaya/Desktop/pratikler/forbreakcontinue/obj/Debug/net7.0/forbreakcontinue.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mehmetcanuzunkaya/Desktop/pratikler/forbreakcontinue/obj/Debug/net7.0/forbreakcontinue.AssemblyInfoInputs.cache
+/Users/mehmetcanuzunkaya/Desktop/pratikler/forbreakcontinue/obj/Debug/net7.0/forbreakcontinue.AssemblyInfo.cs
+/Users/mehmetcanuzunkaya/Desktop/pratikler/forbreakcontinue/obj/Debug/net7.0/forbreakcontinue.csproj.CoreCompileInputs.cache
+/Users/mehmetcanuzunkaya/Desktop/pratikler/forbreakcontinue/obj/Debug/net7.0/forbreakcontinue.dll
+/Users/mehmetcanuzunkaya/Desktop/pratikler/forbreakcontinue/obj/Debug/net7.0/refint/forbreakcontinue.dll
+/Users/mehmetcanuzunkaya/Desktop/pratikler/forbreakcontinue/obj/Debug/net7.0/forbreakcontinue.pdb
+/Users/mehmetcanuzunkaya/Desktop/pratikler/forbreakcontinue/obj/Debug/net7.0/forbreakcontinue.genruntimeconfig.cache
+/Users/mehmetcanuzunkaya/Desktop/pratikler/forbreakcontinue/obj/Debug/net7.0/ref/forbreakcontinue.dll
